@@ -1,0 +1,800 @@
+userid,artid,artist,title,style,year,"Source (1 = classical, 2 = modern, 3 = nonhuman)","computerOrAnimal (0 = human, 1 = computer, 2 = animal)","Intent (0 = no, 1 = yes)",pref_ratings,user_age,user_gender,political_orientation,art_education,general_sophistication,am_i_an_artist
+1,1,Durer,Self-Portrait,Northern Renaissance,1500,1,0,1,7,19,2,3,0,2,2
+1,2,de Vinci,Mona Lisa,Renaissance,1503,1,0,1,6,19,2,3,0,2,2
+1,3,Michelangelo,The Creation of Adam,Italian Renaissance,1512,1,0,1,2,19,2,3,0,2,2
+1,4,Bruegel,Tower of Babel,Dutch and Flemish Renaissance,1563,1,0,1,6,19,2,3,0,2,2
+1,5,Hals,Laughing Cavalier,Baroque,1624,1,0,1,3,19,2,3,0,2,2
+1,6,Rembrandt,Belshazzar's Feast,Baroque,1635,1,0,1,3,19,2,3,0,2,2
+1,7,Vermeer,Girl with the Pearl Earring,Dutch Golden Age,1665,1,0,1,5,19,2,3,0,2,2
+1,8,Ricci,Venus and Cupid,Late Baroque,1700,1,0,1,4,19,2,3,0,2,2
+1,9,Chardin,Saying Grace,Realism,1740,1,0,1,6,19,2,3,0,2,2
+1,10,Hogarth,Marriage A-la-Mode,Rococo,1744,1,0,1,6,19,2,3,0,2,2
+1,11,Gainsborough,Mr. and Mrs. Andrews,Rococo,1750,1,0,1,5,19,2,3,0,2,2
+1,12,Greuze,The Village Bride,Rococo,1761,1,0,1,5,19,2,3,0,2,2
+1,13,Fragonard,The Swing,Rococo,1767,1,0,1,2,19,2,3,0,2,2
+1,14,David,Oath of Horatii,Neoclassical,1784,1,0,1,5,19,2,3,0,2,2
+1,15,Lebrun,Self-Portrait with Her Daughter,Rococo / Neoclassicism,1789,1,0,1,6,19,2,3,0,2,2
+1,16,David,The Death of Marat,Neoclassical,1793,1,0,1,2,19,2,3,0,2,2
+1,17,Girodet,Jean-Baptiste Belley,Romanticism / Neoclassicism,1797,1,0,1,7,19,2,3,0,2,2
+1,18,Goya,The Sleep of Reason Produces Monsters,Romanticism,1798,1,0,1,5,19,2,3,0,2,2
+1,19,David,Rape of the Sabine Women,Neoclassical,1799,1,0,1,7,19,2,3,0,2,2
+1,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,7,19,2,3,0,2,2
+1,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,4,19,2,3,0,2,2
+1,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,3,19,2,3,0,2,2
+1,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,2,19,2,3,0,2,2
+1,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,5,19,2,3,0,2,2
+1,24,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,6,19,2,3,0,2,2
+2,10,Hogarth,Marriage A-la-Mode,Rococo,1744,1,0,1,6,20,1,6,1,3,1
+2,11,Gainsborough,Mr. and Mrs. Andrews,Rococo,1750,1,0,1,5,20,1,6,1,3,1
+2,12,Greuze,The Village Bride,Rococo,1761,1,0,1,4,20,1,6,1,3,1
+2,13,Fragonard,The Swing,Rococo,1767,1,0,1,5,20,1,6,1,3,1
+2,14,David,Oath of Horatii,Neoclassical,1784,1,0,1,2,20,1,6,1,3,1
+2,15,Lebrun,Self-Portrait with Her Daughter,Rococo / Neoclassicism,1789,1,0,1,5,20,1,6,1,3,1
+2,16,David,The Death of Marat,Neoclassical,1793,1,0,1,6,20,1,6,1,3,1
+2,17,Girodet,Jean-Baptiste Belley,Romanticism / Neoclassicism,1797,1,0,1,2,20,1,6,1,3,1
+2,18,Goya,The Sleep of Reason Produces Monsters,Romanticism,1798,1,0,1,7,20,1,6,1,3,1
+2,19,David,Rape of the Sabine Women,Neoclassical,1799,1,0,1,5,20,1,6,1,3,1
+2,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,7,20,1,6,1,3,1
+2,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,7,20,1,6,1,3,1
+2,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,4,20,1,6,1,3,1
+2,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,3,20,1,6,1,3,1
+2,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,2,20,1,6,1,3,1
+2,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,5,20,1,6,1,3,1
+2,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,6,20,1,6,1,3,1
+2,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,4,20,1,6,1,3,1
+2,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,5,20,1,6,1,3,1
+2,29,Cole,The Savage State,Pastoralism,1836,1,0,1,6,20,1,6,1,3,1
+2,30,Mount,The Power of Music ,American Realism,1847,1,0,1,5,20,1,6,1,3,1
+2,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,4,20,1,6,1,3,1
+2,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,7,20,1,6,1,3,1
+2,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,5,20,1,6,1,3,1
+2,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,7,20,1,6,1,3,1
+2,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,7,20,1,6,1,3,1
+2,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,5,20,1,6,1,3,1
+3,15,Lebrun,Self-Portrait with Her Daughter,Rococo / Neoclassicism,1789,1,0,1,7,18,2,2,1,1,2
+3,16,David,The Death of Marat,Neoclassical,1793,1,0,1,7,18,2,2,1,1,2
+3,17,Girodet,Jean-Baptiste Belley,Romanticism / Neoclassicism,1797,1,0,1,5,18,2,2,1,1,2
+3,18,Goya,The Sleep of Reason Produces Monsters,Romanticism,1798,1,0,1,7,18,2,2,1,1,2
+3,19,David,Rape of the Sabine Women,Neoclassical,1799,1,0,1,5,18,2,2,1,1,2
+3,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,6,18,2,2,1,1,2
+3,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,6,18,2,2,1,1,2
+3,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,6,18,2,2,1,1,2
+3,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,5,18,2,2,1,1,2
+3,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,7,18,2,2,1,1,2
+3,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,7,18,2,2,1,1,2
+3,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,6,18,2,2,1,1,2
+3,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,7,18,2,2,1,1,2
+3,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,6,18,2,2,1,1,2
+3,29,Cole,The Savage State,Pastoralism,1836,1,0,1,6,18,2,2,1,1,2
+3,30,Mount,The Power of Music ,American Realism,1847,1,0,1,6,18,2,2,1,1,2
+3,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,3,18,2,2,1,1,2
+3,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,7,18,2,2,1,1,2
+3,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,7,18,2,2,1,1,2
+3,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,5,18,2,2,1,1,2
+3,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,6,18,2,2,1,1,2
+3,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,6,18,2,2,1,1,2
+3,37,Balla,Automobile in Corsa,Furturist,1913,2,0,1,4,18,2,2,1,1,2
+3,38,Chirico,The Evil Genius of a King,Metaphysical,1915,2,0,1,4,18,2,2,1,1,2
+3,39,Beckmann,The Night,New Objectivity,1919,2,0,1,6,18,2,2,1,1,2
+3,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,5,18,2,2,1,1,2
+3,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,7,18,2,2,1,1,2
+3,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,5,18,2,2,1,1,2
+3,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,6,18,2,2,1,1,2
+3,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,4,18,2,2,1,1,2
+3,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,4,18,2,2,1,1,2
+4,30,Mount,The Power of Music ,American Realism,1847,1,0,1,4,21,2,5,1,3,0
+4,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,2,21,2,5,1,3,0
+4,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,3,21,2,5,1,3,0
+4,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,2,21,2,5,1,3,0
+4,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,2,21,2,5,1,3,0
+4,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,4,21,2,5,1,3,0
+4,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,5,21,2,5,1,3,0
+4,37,Balla,Automobile in Corsa,Furturist,1913,2,0,1,5,21,2,5,1,3,0
+4,38,Chirico,The Evil Genius of a King,Metaphysical,1915,2,0,1,5,21,2,5,1,3,0
+4,39,Beckmann,The Night,New Objectivity,1919,2,0,1,4,21,2,5,1,3,0
+4,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,2,21,2,5,1,3,0
+4,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,7,21,2,5,1,3,0
+4,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,4,21,2,5,1,3,0
+4,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,2,21,2,5,1,3,0
+4,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,5,21,2,5,1,3,0
+4,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,4,21,2,5,1,3,0
+4,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,2,21,2,5,1,3,0
+4,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,5,21,2,5,1,3,0
+4,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,6,21,2,5,1,3,0
+4,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,5,21,2,5,1,3,0
+4,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,5,21,2,5,1,3,0
+4,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,3,21,2,5,1,3,0
+4,52,Picasso,Guernica,Cubism,1937,2,0,1,4,21,2,5,1,3,0
+4,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,4,21,2,5,1,3,0
+4,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,4,21,2,5,1,3,0
+4,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,4,21,2,5,1,3,0
+4,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,4,21,2,5,1,3,0
+4,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,6,21,2,5,1,3,0
+4,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,4,21,2,5,1,3,0
+4,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,5,21,2,5,1,3,0
+4,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,5,21,2,5,1,3,0
+5,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,4,22,1,3,0,3,0
+5,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,1,22,1,3,0,3,0
+5,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,4,22,1,3,0,3,0
+5,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,4,22,1,3,0,3,0
+5,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,2,22,1,3,0,3,0
+5,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,5,22,1,3,0,3,0
+5,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,1,22,1,3,0,3,0
+5,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,2,22,1,3,0,3,0
+5,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,2,22,1,3,0,3,0
+5,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,6,22,1,3,0,3,0
+5,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,3,22,1,3,0,3,0
+5,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,6,22,1,3,0,3,0
+5,52,Picasso,Guernica,Cubism,1937,2,0,1,6,22,1,3,0,3,0
+5,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,2,22,1,3,0,3,0
+5,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,4,22,1,3,0,3,0
+5,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,4,22,1,3,0,3,0
+5,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,3,22,1,3,0,3,0
+5,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,1,22,1,3,0,3,0
+5,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,4,22,1,3,0,3,0
+5,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,4,22,1,3,0,3,0
+5,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,4,22,1,3,0,3,0
+5,61,Sikander,Walled States,Contemporary Art,1969,2,0,1,4,22,1,3,0,3,0
+5,62,Kanso,Faust,Modern,1976,2,0,1,5,22,1,3,0,3,0
+5,63,Kiefer,Sulamite,New Symbolism / Neo-Expressionism,1983,2,0,1,1,22,1,3,0,3,0
+5,64,Martin,Fiesta,Abstract Expressionism,1985,2,0,1,3,22,1,3,0,3,0
+5,65,Warhol,Campbell's Soup Cans,Pop Art,1987,2,0,1,2,22,1,3,0,3,0
+5,66,Xiaodong,Voiture de police avec pigeons ,Neo-Realist,1993,2,0,1,4,22,1,3,0,3,0
+5,67,Rutu,Riding Death in My Sleep,Surrealism,2002,2,0,1,4,22,1,3,0,3,0
+5,68,Marshall,7am Sunday Morning,Contemporary Art,2003,2,0,1,4,22,1,3,0,3,0
+5,69,Taaffe,Large Cairene Window,Process - Based Abstraction,2010,2,0,1,5,22,1,3,0,3,0
+5,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,3,22,1,3,0,3,0
+5,71,Computer,Flower,Abstract,2017,3,1,0,2,22,1,3,0,3,0
+5,72,Computer,Cyclone ,Abstract,2017,3,1,0,2,22,1,3,0,3,0
+5,73,Computer,Spiral ,Abstract,2017,3,1,0,4,22,1,3,0,3,0
+5,74,Computer,Dress,Abstract,2017,3,1,0,4,22,1,3,0,3,0
+5,75,Computer,Scream,Abstract,2017,3,1,0,3,22,1,3,0,3,0
+5,76,Computer,Nest,Abstract,2017,3,1,0,4,22,1,3,0,3,0
+5,77,Computer,Splatter,Abstract,2017,3,1,0,3,22,1,3,0,3,0
+5,78,Computer,Heidegger,Abstract,2017,3,1,1,4,22,1,3,0,3,0
+5,79,Computer,Tunnel,Abstract,2017,3,1,1,1,22,1,3,0,3,0
+5,80,Computer,Volcano,Abstract,2017,3,1,1,1,22,1,3,0,3,0
+5,81,Computer,Confidence,Abstract,2017,3,1,1,2,22,1,3,0,3,0
+6,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,4,24,2,4,0,2,0
+6,61,Sikander,Walled States,Contemporary Art,1969,2,0,1,5,24,2,4,0,2,0
+6,62,Kanso,Faust,Modern,1976,2,0,1,4,24,2,4,0,2,0
+6,63,Kiefer,Sulamite,New Symbolism / Neo-Expressionism,1983,2,0,1,3,24,2,4,0,2,0
+6,64,Martin,Fiesta,Abstract Expressionism,1985,2,0,1,3,24,2,4,0,2,0
+6,65,Warhol,Campbell's Soup Cans,Pop Art,1987,2,0,1,4,24,2,4,0,2,0
+6,66,Xiaodong,Voiture de police avec pigeons ,Neo-Realist,1993,2,0,1,4,24,2,4,0,2,0
+6,67,Rutu,Riding Death in My Sleep,Surrealism,2002,2,0,1,4,24,2,4,0,2,0
+6,68,Marshall,7am Sunday Morning,Contemporary Art,2003,2,0,1,5,24,2,4,0,2,0
+6,69,Taaffe,Large Cairene Window,Process - Based Abstraction,2010,2,0,1,4,24,2,4,0,2,0
+6,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,6,24,2,4,0,2,0
+6,71,Computer,Flower,Abstract,2017,3,1,0,5,24,2,4,0,2,0
+6,72,Computer,Cyclone ,Abstract,2017,3,1,0,3,24,2,4,0,2,0
+6,73,Computer,Spiral ,Abstract,2017,3,1,0,6,24,2,4,0,2,0
+6,74,Computer,Dress,Abstract,2017,3,1,0,6,24,2,4,0,2,0
+6,75,Computer,Scream,Abstract,2017,3,1,0,4,24,2,4,0,2,0
+6,76,Computer,Nest,Abstract,2017,3,1,0,6,24,2,4,0,2,0
+6,77,Computer,Splatter,Abstract,2017,3,1,0,4,24,2,4,0,2,0
+6,78,Computer,Heidegger,Abstract,2017,3,1,1,4,24,2,4,0,2,0
+6,79,Computer,Tunnel,Abstract,2017,3,1,1,5,24,2,4,0,2,0
+6,80,Computer,Volcano,Abstract,2017,3,1,1,5,24,2,4,0,2,0
+6,81,Computer,Confidence,Abstract,2017,3,1,1,6,24,2,4,0,2,0
+6,82,Computer,Tracking,Abstract,2017,3,1,1,3,24,2,4,0,2,0
+6,83,Computer,Lines,Abstract,2017,3,1,1,3,24,2,4,0,2,0
+6,84,Computer,Boxes,Abstract ,2017,3,1,1,4,24,2,4,0,2,0
+6,85,Insect 1,Untitled,Abstract,2017,3,2,0,3,24,2,4,0,2,0
+6,86,Insect 2,Untitled,Abstract,2017,3,2,0,4,24,2,4,0,2,0
+6,87,Turtle,Untitled,Abstract,2017,3,2,0,5,24,2,4,0,2,0
+6,88,Snake,Untitled,Abstract,2017,3,2,0,5,24,2,4,0,2,0
+6,89,Hippo,Untitled,Abstract,2017,3,2,0,5,24,2,4,0,2,0
+6,90,Rhino,Untitled,Abstract,2017,3,2,0,4,24,2,4,0,2,0
+6,91,Chimp,Untitled,Abstract,2017,3,2,0,4,24,2,4,0,2,0
+7,1,Durer,Self-Portrait,Northern Renaissance,1500,1,0,1,4,19,2,6,2,3,1
+7,2,de Vinci,Mona Lisa,Renaissance,1503,1,0,1,5,19,2,6,2,3,1
+7,3,Michelangelo,The Creation of Adam,Italian Renaissance,1512,1,0,1,4,19,2,6,2,3,1
+7,4,Bruegel,Tower of Babel,Dutch and Flemish Renaissance,1563,1,0,1,7,19,2,6,2,3,1
+7,5,Hals,Laughing Cavalier,Baroque,1624,1,0,1,4,19,2,6,2,3,1
+7,6,Rembrandt,Belshazzar's Feast,Baroque,1635,1,0,1,6,19,2,6,2,3,1
+7,7,Vermeer,Girl with the Pearl Earring,Dutch Golden Age,1665,1,0,1,6,19,2,6,2,3,1
+7,8,Ricci,Venus and Cupid,Late Baroque,1700,1,0,1,5,19,2,6,2,3,1
+7,9,Chardin,Saying Grace,Realism,1740,1,0,1,6,19,2,6,2,3,1
+7,10,Hogarth,Marriage A-la-Mode,Rococo,1744,1,0,1,4,19,2,6,2,3,1
+7,11,Gainsborough,Mr. and Mrs. Andrews,Rococo,1750,1,0,1,6,19,2,6,2,3,1
+7,12,Greuze,The Village Bride,Rococo,1761,1,0,1,6,19,2,6,2,3,1
+7,13,Fragonard,The Swing,Rococo,1767,1,0,1,6,19,2,6,2,3,1
+7,14,David,Oath of Horatii,Neoclassical,1784,1,0,1,5,19,2,6,2,3,1
+7,15,Lebrun,Self-Portrait with Her Daughter,Rococo / Neoclassicism,1789,1,0,1,6,19,2,6,2,3,1
+7,16,David,The Death of Marat,Neoclassical,1793,1,0,1,6,19,2,6,2,3,1
+7,17,Girodet,Jean-Baptiste Belley,Romanticism / Neoclassicism,1797,1,0,1,5,19,2,6,2,3,1
+7,18,Goya,The Sleep of Reason Produces Monsters,Romanticism,1798,1,0,1,6,19,2,6,2,3,1
+7,19,David,Rape of the Sabine Women,Neoclassical,1799,1,0,1,5,19,2,6,2,3,1
+7,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,4,19,2,6,2,3,1
+7,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,6,19,2,6,2,3,1
+7,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,4,19,2,6,2,3,1
+7,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,4,19,2,6,2,3,1
+7,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,4,19,2,6,2,3,1
+7,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,4,19,2,6,2,3,1
+7,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,6,19,2,6,2,3,1
+7,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,4,19,2,6,2,3,1
+7,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,5,19,2,6,2,3,1
+7,29,Cole,The Savage State,Pastoralism,1836,1,0,1,5,19,2,6,2,3,1
+7,30,Mount,The Power of Music ,American Realism,1847,1,0,1,4,19,2,6,2,3,1
+7,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,6,19,2,6,2,3,1
+8,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,5,20,2,2,1,3,2
+8,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,3,20,2,2,1,3,2
+8,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,6,20,2,2,1,3,2
+8,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,7,20,2,2,1,3,2
+8,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,7,20,2,2,1,3,2
+8,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,7,20,2,2,1,3,2
+8,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,7,20,2,2,1,3,2
+8,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,7,20,2,2,1,3,2
+8,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,6,20,2,2,1,3,2
+8,29,Cole,The Savage State,Pastoralism,1836,1,0,1,7,20,2,2,1,3,2
+8,30,Mount,The Power of Music ,American Realism,1847,1,0,1,5,20,2,2,1,3,2
+8,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,6,20,2,2,1,3,2
+8,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,5,20,2,2,1,3,2
+8,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,7,20,2,2,1,3,2
+8,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,6,20,2,2,1,3,2
+8,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,6,20,2,2,1,3,2
+8,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,3,20,2,2,1,3,2
+8,37,Balla,Automobile in Corsa,Furturist,1913,2,0,1,4,20,2,2,1,3,2
+8,38,Chirico,The Evil Genius of a King,Metaphysical,1915,2,0,1,3,20,2,2,1,3,2
+8,39,Beckmann,The Night,New Objectivity,1919,2,0,1,5,20,2,2,1,3,2
+8,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,2,20,2,2,1,3,2
+8,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,7,20,2,2,1,3,2
+8,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,5,20,2,2,1,3,2
+8,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,5,20,2,2,1,3,2
+8,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,2,20,2,2,1,3,2
+8,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,2,20,2,2,1,3,2
+8,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,5,20,2,2,1,3,2
+8,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,6,20,2,2,1,3,2
+8,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,3,20,2,2,1,3,2
+8,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,4,20,2,2,1,3,2
+8,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,7,20,2,2,1,3,2
+8,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,3,20,2,2,1,3,2
+8,52,Picasso,Guernica,Cubism,1937,2,0,1,7,20,2,2,1,3,2
+8,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,1,20,2,2,1,3,2
+8,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,5,20,2,2,1,3,2
+8,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,5,20,2,2,1,3,2
+8,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,6,20,2,2,1,3,2
+8,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,5,20,2,2,1,3,2
+8,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,5,20,2,2,1,3,2
+8,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,2,20,2,2,1,3,2
+8,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,6,20,2,2,1,3,2
+9,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,6,18,2,2,0,1,1
+9,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,4,18,2,2,0,1,1
+9,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,4,18,2,2,0,1,1
+9,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,4,18,2,2,0,1,1
+9,29,Cole,The Savage State,Pastoralism,1836,1,0,1,4,18,2,2,0,1,1
+9,30,Mount,The Power of Music ,American Realism,1847,1,0,1,3,18,2,2,0,1,1
+9,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,6,18,2,2,0,1,1
+9,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,4,18,2,2,0,1,1
+9,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,5,18,2,2,0,1,1
+9,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,4,18,2,2,0,1,1
+9,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,5,18,2,2,0,1,1
+9,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,7,18,2,2,0,1,1
+9,37,Balla,Automobile in Corsa,Furturist,1913,2,0,1,4,18,2,2,0,1,1
+9,38,Chirico,The Evil Genius of a King,Metaphysical,1915,2,0,1,4,18,2,2,0,1,1
+9,39,Beckmann,The Night,New Objectivity,1919,2,0,1,4,18,2,2,0,1,1
+9,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,6,18,2,2,0,1,1
+9,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,4,18,2,2,0,1,1
+9,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,7,18,2,2,0,1,1
+9,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,4,18,2,2,0,1,1
+9,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,4,18,2,2,0,1,1
+9,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,4,18,2,2,0,1,1
+9,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,4,18,2,2,0,1,1
+9,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,3,18,2,2,0,1,1
+9,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,6,18,2,2,0,1,1
+9,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,3,18,2,2,0,1,1
+9,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,4,18,2,2,0,1,1
+9,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,6,18,2,2,0,1,1
+9,52,Picasso,Guernica,Cubism,1937,2,0,1,4,18,2,2,0,1,1
+9,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,4,18,2,2,0,1,1
+9,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,4,18,2,2,0,1,1
+9,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,4,18,2,2,0,1,1
+9,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,3,18,2,2,0,1,1
+9,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,4,18,2,2,0,1,1
+9,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,6,18,2,2,0,1,1
+9,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,3,18,2,2,0,1,1
+9,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,4,18,2,2,0,1,1
+9,61,Sikander,Walled States,Contemporary Art,1969,2,0,1,5,18,2,2,0,1,1
+9,62,Kanso,Faust,Modern,1976,2,0,1,4,18,2,2,0,1,1
+9,63,Kiefer,Sulamite,New Symbolism / Neo-Expressionism,1983,2,0,1,4,18,2,2,0,1,1
+9,64,Martin,Fiesta,Abstract Expressionism,1985,2,0,1,5,18,2,2,0,1,1
+9,65,Warhol,Campbell's Soup Cans,Pop Art,1987,2,0,1,4,18,2,2,0,1,1
+9,66,Xiaodong,Voiture de police avec pigeons ,Neo-Realist,1993,2,0,1,4,18,2,2,0,1,1
+9,67,Rutu,Riding Death in My Sleep,Surrealism,2002,2,0,1,4,18,2,2,0,1,1
+9,68,Marshall,7am Sunday Morning,Contemporary Art,2003,2,0,1,4,18,2,2,0,1,1
+9,69,Taaffe,Large Cairene Window,Process - Based Abstraction,2010,2,0,1,4,18,2,2,0,1,1
+9,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,4,18,2,2,0,1,1
+9,71,Computer,Flower,Abstract,2017,3,1,0,3,18,2,2,0,1,1
+9,72,Computer,Cyclone ,Abstract,2017,3,1,0,2,18,2,2,0,1,1
+9,73,Computer,Spiral ,Abstract,2017,3,1,0,2,18,2,2,0,1,1
+9,74,Computer,Dress,Abstract,2017,3,1,0,4,18,2,2,0,1,1
+9,75,Computer,Scream,Abstract,2017,3,1,0,4,18,2,2,0,1,1
+9,76,Computer,Nest,Abstract,2017,3,1,0,3,18,2,2,0,1,1
+9,77,Computer,Splatter,Abstract,2017,3,1,0,3,18,2,2,0,1,1
+9,78,Computer,Heidegger,Abstract,2017,3,1,1,1,18,2,2,0,1,1
+9,79,Computer,Tunnel,Abstract,2017,3,1,1,4,18,2,2,0,1,1
+9,80,Computer,Volcano,Abstract,2017,3,1,1,2,18,2,2,0,1,1
+9,81,Computer,Confidence,Abstract,2017,3,1,1,5,18,2,2,0,1,1
+9,82,Computer,Tracking,Abstract,2017,3,1,1,3,18,2,2,0,1,1
+9,83,Computer,Lines,Abstract,2017,3,1,1,1,18,2,2,0,1,1
+10,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,6,20,2,3,0,1,1
+10,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,5,20,2,3,0,1,1
+10,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,1,20,2,3,0,1,1
+10,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,7,20,2,3,0,1,1
+10,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,6,20,2,3,0,1,1
+10,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,4,20,2,3,0,1,1
+10,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,5,20,2,3,0,1,1
+10,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,7,20,2,3,0,1,1
+10,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,7,20,2,3,0,1,1
+10,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,7,20,2,3,0,1,1
+10,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,7,20,2,3,0,1,1
+10,52,Picasso,Guernica,Cubism,1937,2,0,1,5,20,2,3,0,1,1
+10,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,4,20,2,3,0,1,1
+10,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,7,20,2,3,0,1,1
+10,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,4,20,2,3,0,1,1
+10,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,5,20,2,3,0,1,1
+10,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,5,20,2,3,0,1,1
+10,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,6,20,2,3,0,1,1
+10,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,7,20,2,3,0,1,1
+10,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,7,20,2,3,0,1,1
+10,61,Sikander,Walled States,Contemporary Art,1969,2,0,1,6,20,2,3,0,1,1
+10,62,Kanso,Faust,Modern,1976,2,0,1,6,20,2,3,0,1,1
+10,63,Kiefer,Sulamite,New Symbolism / Neo-Expressionism,1983,2,0,1,7,20,2,3,0,1,1
+10,64,Martin,Fiesta,Abstract Expressionism,1985,2,0,1,7,20,2,3,0,1,1
+10,65,Warhol,Campbell's Soup Cans,Pop Art,1987,2,0,1,6,20,2,3,0,1,1
+10,66,Xiaodong,Voiture de police avec pigeons ,Neo-Realist,1993,2,0,1,7,20,2,3,0,1,1
+10,67,Rutu,Riding Death in My Sleep,Surrealism,2002,2,0,1,5,20,2,3,0,1,1
+10,68,Marshall,7am Sunday Morning,Contemporary Art,2003,2,0,1,6,20,2,3,0,1,1
+10,69,Taaffe,Large Cairene Window,Process - Based Abstraction,2010,2,0,1,7,20,2,3,0,1,1
+10,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,5,20,2,3,0,1,1
+10,71,Computer,Flower,Abstract,2017,3,1,0,3,20,2,3,0,1,1
+10,72,Computer,Cyclone ,Abstract,2017,3,1,0,1,20,2,3,0,1,1
+10,73,Computer,Spiral ,Abstract,2017,3,1,0,4,20,2,3,0,1,1
+10,74,Computer,Dress,Abstract,2017,3,1,0,7,20,2,3,0,1,1
+10,75,Computer,Scream,Abstract,2017,3,1,0,5,20,2,3,0,1,1
+10,76,Computer,Nest,Abstract,2017,3,1,0,5,20,2,3,0,1,1
+10,77,Computer,Splatter,Abstract,2017,3,1,0,7,20,2,3,0,1,1
+10,78,Computer,Heidegger,Abstract,2017,3,1,1,4,20,2,3,0,1,1
+10,79,Computer,Tunnel,Abstract,2017,3,1,1,1,20,2,3,0,1,1
+10,80,Computer,Volcano,Abstract,2017,3,1,1,7,20,2,3,0,1,1
+10,81,Computer,Confidence,Abstract,2017,3,1,1,1,20,2,3,0,1,1
+10,82,Computer,Tracking,Abstract,2017,3,1,1,1,20,2,3,0,1,1
+10,83,Computer,Lines,Abstract,2017,3,1,1,6,20,2,3,0,1,1
+10,84,Computer,Boxes,Abstract ,2017,3,1,1,7,20,2,3,0,1,1
+10,85,Insect 1,Untitled,Abstract,2017,3,2,0,4,20,2,3,0,1,1
+10,86,Insect 2,Untitled,Abstract,2017,3,2,0,4,20,2,3,0,1,1
+10,87,Turtle,Untitled,Abstract,2017,3,2,0,6,20,2,3,0,1,1
+10,88,Snake,Untitled,Abstract,2017,3,2,0,7,20,2,3,0,1,1
+10,89,Hippo,Untitled,Abstract,2017,3,2,0,6,20,2,3,0,1,1
+10,90,Rhino,Untitled,Abstract,2017,3,2,0,6,20,2,3,0,1,1
+10,91,Chimp,Untitled,Abstract,2017,3,2,0,7,20,2,3,0,1,1
+11,1,Durer,Self-Portrait,Northern Renaissance,1500,1,0,1,6,19,2,6,0,3,2
+11,2,de Vinci,Mona Lisa,Renaissance,1503,1,0,1,6,19,2,6,0,3,2
+11,3,Michelangelo,The Creation of Adam,Italian Renaissance,1512,1,0,1,6,19,2,6,0,3,2
+11,4,Bruegel,Tower of Babel,Dutch and Flemish Renaissance,1563,1,0,1,6,19,2,6,0,3,2
+11,5,Hals,Laughing Cavalier,Baroque,1624,1,0,1,3,19,2,6,0,3,2
+11,6,Rembrandt,Belshazzar's Feast,Baroque,1635,1,0,1,6,19,2,6,0,3,2
+11,7,Vermeer,Girl with the Pearl Earring,Dutch Golden Age,1665,1,0,1,2,19,2,6,0,3,2
+11,8,Ricci,Venus and Cupid,Late Baroque,1700,1,0,1,6,19,2,6,0,3,2
+11,9,Chardin,Saying Grace,Realism,1740,1,0,1,5,19,2,6,0,3,2
+11,10,Hogarth,Marriage A-la-Mode,Rococo,1744,1,0,1,5,19,2,6,0,3,2
+11,11,Gainsborough,Mr. and Mrs. Andrews,Rococo,1750,1,0,1,6,19,2,6,0,3,2
+11,12,Greuze,The Village Bride,Rococo,1761,1,0,1,5,19,2,6,0,3,2
+11,13,Fragonard,The Swing,Rococo,1767,1,0,1,6,19,2,6,0,3,2
+11,14,David,Oath of Horatii,Neoclassical,1784,1,0,1,6,19,2,6,0,3,2
+11,15,Lebrun,Self-Portrait with Her Daughter,Rococo / Neoclassicism,1789,1,0,1,6,19,2,6,0,3,2
+11,16,David,The Death of Marat,Neoclassical,1793,1,0,1,6,19,2,6,0,3,2
+11,17,Girodet,Jean-Baptiste Belley,Romanticism / Neoclassicism,1797,1,0,1,6,19,2,6,0,3,2
+11,18,Goya,The Sleep of Reason Produces Monsters,Romanticism,1798,1,0,1,5,19,2,6,0,3,2
+11,19,David,Rape of the Sabine Women,Neoclassical,1799,1,0,1,6,19,2,6,0,3,2
+11,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,5,19,2,6,0,3,2
+11,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,3,19,2,6,0,3,2
+11,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,6,19,2,6,0,3,2
+11,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,6,19,2,6,0,3,2
+11,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,3,19,2,6,0,3,2
+11,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,4,19,2,6,0,3,2
+11,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,7,19,2,6,0,3,2
+11,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,4,19,2,6,0,3,2
+11,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,2,19,2,6,0,3,2
+11,29,Cole,The Savage State,Pastoralism,1836,1,0,1,5,19,2,6,0,3,2
+11,30,Mount,The Power of Music ,American Realism,1847,1,0,1,6,19,2,6,0,3,2
+12,1,Durer,Self-Portrait,Northern Renaissance,1500,1,0,1,7,18,2,2,2,3,1
+12,2,de Vinci,Mona Lisa,Renaissance,1503,1,0,1,6,18,2,2,2,3,1
+12,3,Michelangelo,The Creation of Adam,Italian Renaissance,1512,1,0,1,4,18,2,2,2,3,1
+12,4,Bruegel,Tower of Babel,Dutch and Flemish Renaissance,1563,1,0,1,5,18,2,2,2,3,1
+12,5,Hals,Laughing Cavalier,Baroque,1624,1,0,1,4,18,2,2,2,3,1
+12,6,Rembrandt,Belshazzar's Feast,Baroque,1635,1,0,1,4,18,2,2,2,3,1
+12,7,Vermeer,Girl with the Pearl Earring,Dutch Golden Age,1665,1,0,1,4,18,2,2,2,3,1
+12,8,Ricci,Venus and Cupid,Late Baroque,1700,1,0,1,5,18,2,2,2,3,1
+12,9,Chardin,Saying Grace,Realism,1740,1,0,1,5,18,2,2,2,3,1
+12,10,Hogarth,Marriage A-la-Mode,Rococo,1744,1,0,1,6,18,2,2,2,3,1
+12,11,Gainsborough,Mr. and Mrs. Andrews,Rococo,1750,1,0,1,4,18,2,2,2,3,1
+12,12,Greuze,The Village Bride,Rococo,1761,1,0,1,4,18,2,2,2,3,1
+12,13,Fragonard,The Swing,Rococo,1767,1,0,1,3,18,2,2,2,3,1
+12,14,David,Oath of Horatii,Neoclassical,1784,1,0,1,6,18,2,2,2,3,1
+12,15,Lebrun,Self-Portrait with Her Daughter,Rococo / Neoclassicism,1789,1,0,1,7,18,2,2,2,3,1
+12,16,David,The Death of Marat,Neoclassical,1793,1,0,1,6,18,2,2,2,3,1
+12,17,Girodet,Jean-Baptiste Belley,Romanticism / Neoclassicism,1797,1,0,1,3,18,2,2,2,3,1
+12,18,Goya,The Sleep of Reason Produces Monsters,Romanticism,1798,1,0,1,4,18,2,2,2,3,1
+12,19,David,Rape of the Sabine Women,Neoclassical,1799,1,0,1,6,18,2,2,2,3,1
+12,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,5,18,2,2,2,3,1
+12,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,5,18,2,2,2,3,1
+12,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,4,18,2,2,2,3,1
+12,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,4,18,2,2,2,3,1
+12,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,3,18,2,2,2,3,1
+12,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,5,18,2,2,2,3,1
+12,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,6,18,2,2,2,3,1
+12,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,6,18,2,2,2,3,1
+12,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,4,18,2,2,2,3,1
+12,29,Cole,The Savage State,Pastoralism,1836,1,0,1,5,18,2,2,2,3,1
+12,30,Mount,The Power of Music ,American Realism,1847,1,0,1,4,18,2,2,2,3,1
+12,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,4,18,2,2,2,3,1
+12,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,6,18,2,2,2,3,1
+12,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,4,18,2,2,2,3,1
+12,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,4,18,2,2,2,3,1
+12,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,5,18,2,2,2,3,1
+12,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,4,18,2,2,2,3,1
+12,37,Balla,Automobile in Corsa,Furturist,1913,2,0,1,6,18,2,2,2,3,1
+12,38,Chirico,The Evil Genius of a King,Metaphysical,1915,2,0,1,5,18,2,2,2,3,1
+12,39,Beckmann,The Night,New Objectivity,1919,2,0,1,5,18,2,2,2,3,1
+12,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,5,18,2,2,2,3,1
+12,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,5,18,2,2,2,3,1
+12,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,7,18,2,2,2,3,1
+12,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,3,18,2,2,2,3,1
+12,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,6,18,2,2,2,3,1
+12,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,5,18,2,2,2,3,1
+12,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,7,18,2,2,2,3,1
+12,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,6,18,2,2,2,3,1
+12,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,4,18,2,2,2,3,1
+12,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,5,18,2,2,2,3,1
+12,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,2,18,2,2,2,3,1
+12,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,6,18,2,2,2,3,1
+12,52,Picasso,Guernica,Cubism,1937,2,0,1,7,18,2,2,2,3,1
+12,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,5,18,2,2,2,3,1
+12,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,2,18,2,2,2,3,1
+12,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,5,18,2,2,2,3,1
+12,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,6,18,2,2,2,3,1
+12,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,5,18,2,2,2,3,1
+12,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,4,18,2,2,2,3,1
+12,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,6,18,2,2,2,3,1
+12,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,5,18,2,2,2,3,1
+12,61,Sikander,Walled States,Contemporary Art,1969,2,0,1,5,18,2,2,2,3,1
+12,62,Kanso,Faust,Modern,1976,2,0,1,6,18,2,2,2,3,1
+12,63,Kiefer,Sulamite,New Symbolism / Neo-Expressionism,1983,2,0,1,4,18,2,2,2,3,1
+12,64,Martin,Fiesta,Abstract Expressionism,1985,2,0,1,5,18,2,2,2,3,1
+12,65,Warhol,Campbell's Soup Cans,Pop Art,1987,2,0,1,5,18,2,2,2,3,1
+12,66,Xiaodong,Voiture de police avec pigeons ,Neo-Realist,1993,2,0,1,6,18,2,2,2,3,1
+12,67,Rutu,Riding Death in My Sleep,Surrealism,2002,2,0,1,7,18,2,2,2,3,1
+12,68,Marshall,7am Sunday Morning,Contemporary Art,2003,2,0,1,6,18,2,2,2,3,1
+12,69,Taaffe,Large Cairene Window,Process - Based Abstraction,2010,2,0,1,7,18,2,2,2,3,1
+12,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,2,18,2,2,2,3,1
+12,71,Computer,Flower,Abstract,2017,3,1,0,1,18,2,2,2,3,1
+12,72,Computer,Cyclone ,Abstract,2017,3,1,0,2,18,2,2,2,3,1
+12,73,Computer,Spiral ,Abstract,2017,3,1,0,2,18,2,2,2,3,1
+12,74,Computer,Dress,Abstract,2017,3,1,0,5,18,2,2,2,3,1
+12,75,Computer,Scream,Abstract,2017,3,1,0,5,18,2,2,2,3,1
+12,76,Computer,Nest,Abstract,2017,3,1,0,2,18,2,2,2,3,1
+12,77,Computer,Splatter,Abstract,2017,3,1,0,3,18,2,2,2,3,1
+12,78,Computer,Heidegger,Abstract,2017,3,1,1,2,18,2,2,2,3,1
+13,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,5,20,2,2,3,1,1
+13,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,6,20,2,2,3,1,1
+13,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,6,20,2,2,3,1,1
+13,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,5,20,2,2,3,1,1
+13,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,5,20,2,2,3,1,1
+13,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,5,20,2,2,3,1,1
+13,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,6,20,2,2,3,1,1
+13,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,5,20,2,2,3,1,1
+13,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,5,20,2,2,3,1,1
+13,29,Cole,The Savage State,Pastoralism,1836,1,0,1,5,20,2,2,3,1,1
+13,30,Mount,The Power of Music ,American Realism,1847,1,0,1,4,20,2,2,3,1,1
+13,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,5,20,2,2,3,1,1
+13,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,5,20,2,2,3,1,1
+13,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,5,20,2,2,3,1,1
+13,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,6,20,2,2,3,1,1
+13,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,4,20,2,2,3,1,1
+13,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,4,20,2,2,3,1,1
+13,37,Balla,Automobile in Corsa,Furturist,1913,2,0,1,4,20,2,2,3,1,1
+13,38,Chirico,The Evil Genius of a King,Metaphysical,1915,2,0,1,5,20,2,2,3,1,1
+13,39,Beckmann,The Night,New Objectivity,1919,2,0,1,5,20,2,2,3,1,1
+13,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,5,20,2,2,3,1,1
+13,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,6,20,2,2,3,1,1
+13,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,5,20,2,2,3,1,1
+13,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,4,20,2,2,3,1,1
+13,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,4,20,2,2,3,1,1
+13,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,5,20,2,2,3,1,1
+13,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,4,20,2,2,3,1,1
+13,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,4,20,2,2,3,1,1
+13,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,6,20,2,2,3,1,1
+13,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,4,20,2,2,3,1,1
+13,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,5,20,2,2,3,1,1
+13,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,6,20,2,2,3,1,1
+13,52,Picasso,Guernica,Cubism,1937,2,0,1,6,20,2,2,3,1,1
+13,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,3,20,2,2,3,1,1
+13,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,5,20,2,2,3,1,1
+13,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,5,20,2,2,3,1,1
+13,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,5,20,2,2,3,1,1
+13,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,5,20,2,2,3,1,1
+13,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,5,20,2,2,3,1,1
+13,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,5,20,2,2,3,1,1
+13,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,4,20,2,2,3,1,1
+14,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,7,19,2,1,3,1,2
+14,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,3,19,2,1,3,1,2
+14,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,4,19,2,1,3,1,2
+14,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,6,19,2,1,3,1,2
+14,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,7,19,2,1,3,1,2
+14,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,4,19,2,1,3,1,2
+14,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,6,19,2,1,3,1,2
+14,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,5,19,2,1,3,1,2
+14,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,3,19,2,1,3,1,2
+14,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,7,19,2,1,3,1,2
+14,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,6,19,2,1,3,1,2
+14,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,6,19,2,1,3,1,2
+14,52,Picasso,Guernica,Cubism,1937,2,0,1,6,19,2,1,3,1,2
+14,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,3,19,2,1,3,1,2
+14,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,5,19,2,1,3,1,2
+14,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,7,19,2,1,3,1,2
+14,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,7,19,2,1,3,1,2
+14,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,7,19,2,1,3,1,2
+14,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,5,19,2,1,3,1,2
+14,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,6,19,2,1,3,1,2
+14,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,7,19,2,1,3,1,2
+14,61,Sikander,Walled States,Contemporary Art,1969,2,0,1,6,19,2,1,3,1,2
+14,62,Kanso,Faust,Modern,1976,2,0,1,6,19,2,1,3,1,2
+14,63,Kiefer,Sulamite,New Symbolism / Neo-Expressionism,1983,2,0,1,5,19,2,1,3,1,2
+14,64,Martin,Fiesta,Abstract Expressionism,1985,2,0,1,4,19,2,1,3,1,2
+14,65,Warhol,Campbell's Soup Cans,Pop Art,1987,2,0,1,7,19,2,1,3,1,2
+14,66,Xiaodong,Voiture de police avec pigeons ,Neo-Realist,1993,2,0,1,3,19,2,1,3,1,2
+14,67,Rutu,Riding Death in My Sleep,Surrealism,2002,2,0,1,6,19,2,1,3,1,2
+14,68,Marshall,7am Sunday Morning,Contemporary Art,2003,2,0,1,5,19,2,1,3,1,2
+14,69,Taaffe,Large Cairene Window,Process - Based Abstraction,2010,2,0,1,4,19,2,1,3,1,2
+14,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,1,19,2,1,3,1,2
+14,71,Computer,Flower,Abstract,2017,3,1,0,3,19,2,1,3,1,2
+14,72,Computer,Cyclone ,Abstract,2017,3,1,0,6,19,2,1,3,1,2
+14,73,Computer,Spiral ,Abstract,2017,3,1,0,6,19,2,1,3,1,2
+14,74,Computer,Dress,Abstract,2017,3,1,0,6,19,2,1,3,1,2
+14,75,Computer,Scream,Abstract,2017,3,1,0,4,19,2,1,3,1,2
+14,76,Computer,Nest,Abstract,2017,3,1,0,7,19,2,1,3,1,2
+14,77,Computer,Splatter,Abstract,2017,3,1,0,7,19,2,1,3,1,2
+14,78,Computer,Heidegger,Abstract,2017,3,1,1,2,19,2,1,3,1,2
+14,79,Computer,Tunnel,Abstract,2017,3,1,1,4,19,2,1,3,1,2
+14,80,Computer,Volcano,Abstract,2017,3,1,1,5,19,2,1,3,1,2
+14,81,Computer,Confidence,Abstract,2017,3,1,1,3,19,2,1,3,1,2
+14,82,Computer,Tracking,Abstract,2017,3,1,1,6,19,2,1,3,1,2
+14,83,Computer,Lines,Abstract,2017,3,1,1,5,19,2,1,3,1,2
+14,84,Computer,Boxes,Abstract ,2017,3,1,1,7,19,2,1,3,1,2
+14,85,Insect 1,Untitled,Abstract,2017,3,2,0,5,19,2,1,3,1,2
+14,86,Insect 2,Untitled,Abstract,2017,3,2,0,6,19,2,1,3,1,2
+14,87,Turtle,Untitled,Abstract,2017,3,2,0,7,19,2,1,3,1,2
+14,88,Snake,Untitled,Abstract,2017,3,2,0,5,19,2,1,3,1,2
+14,89,Hippo,Untitled,Abstract,2017,3,2,0,6,19,2,1,3,1,2
+14,90,Rhino,Untitled,Abstract,2017,3,2,0,7,19,2,1,3,1,2
+15,10,Hogarth,Marriage A-la-Mode,Rococo,1744,1,0,1,6,19,2,2,0,0,1
+15,11,Gainsborough,Mr. and Mrs. Andrews,Rococo,1750,1,0,1,4,19,2,2,0,0,1
+15,12,Greuze,The Village Bride,Rococo,1761,1,0,1,2,19,2,2,0,0,1
+15,13,Fragonard,The Swing,Rococo,1767,1,0,1,3,19,2,2,0,0,1
+15,14,David,Oath of Horatii,Neoclassical,1784,1,0,1,6,19,2,2,0,0,1
+15,15,Lebrun,Self-Portrait with Her Daughter,Rococo / Neoclassicism,1789,1,0,1,5,19,2,2,0,0,1
+15,16,David,The Death of Marat,Neoclassical,1793,1,0,1,5,19,2,2,0,0,1
+15,17,Girodet,Jean-Baptiste Belley,Romanticism / Neoclassicism,1797,1,0,1,5,19,2,2,0,0,1
+15,18,Goya,The Sleep of Reason Produces Monsters,Romanticism,1798,1,0,1,5,19,2,2,0,0,1
+15,19,David,Rape of the Sabine Women,Neoclassical,1799,1,0,1,4,19,2,2,0,0,1
+15,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,6,19,2,2,0,0,1
+15,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,2,19,2,2,0,0,1
+15,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,5,19,2,2,0,0,1
+15,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,4,19,2,2,0,0,1
+15,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,3,19,2,2,0,0,1
+15,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,5,19,2,2,0,0,1
+15,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,6,19,2,2,0,0,1
+15,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,3,19,2,2,0,0,1
+15,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,2,19,2,2,0,0,1
+15,29,Cole,The Savage State,Pastoralism,1836,1,0,1,5,19,2,2,0,0,1
+15,30,Mount,The Power of Music ,American Realism,1847,1,0,1,4,19,2,2,0,0,1
+15,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,3,19,2,2,0,0,1
+15,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,2,19,2,2,0,0,1
+15,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,5,19,2,2,0,0,1
+15,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,6,19,2,2,0,0,1
+15,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,1,19,2,2,0,0,1
+15,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,6,19,2,2,0,0,1
+15,37,Balla,Automobile in Corsa,Furturist,1913,2,0,1,2,19,2,2,0,0,1
+15,38,Chirico,The Evil Genius of a King,Metaphysical,1915,2,0,1,2,19,2,2,0,0,1
+16,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,5,19,2,2,3,2,2
+16,21,Girodet,Burial of Atala,Romanticism / Neoclassicism,1808,1,0,1,5,19,2,2,3,2,2
+16,22,Turner,Snow Storm: Hannibal and his Army Crossing,Romanticism,1812,1,0,1,4,19,2,2,3,2,2
+16,23,Ingres,Grande Odalisque,Neoclassicism,1814,1,0,1,4,19,2,2,3,2,2
+16,24,Ward,Gordale Scar,Landscapes / Romanticism,1815,1,0,1,2,19,2,2,3,2,2
+16,25,Friedrich,Wanderer above the Sea of Fog,German Romanticism,1818,1,0,1,4,19,2,2,3,2,2
+16,26,Gericault,The Raft of the Medusa,Romanticism,1819,1,0,1,6,19,2,2,3,2,2
+16,27,Friedrich,Woman at the Window,Romanticism,1822,1,0,1,5,19,2,2,3,2,2
+16,28,Delacroix,Liberty Leading the People,Romanticism,1830,1,0,1,2,19,2,2,3,2,2
+16,29,Cole,The Savage State,Pastoralism,1836,1,0,1,2,19,2,2,3,2,2
+16,30,Mount,The Power of Music ,American Realism,1847,1,0,1,4,19,2,2,3,2,2
+16,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,2,19,2,2,3,2,2
+16,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,2,19,2,2,3,2,2
+16,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,4,19,2,2,3,2,2
+16,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,5,19,2,2,3,2,2
+16,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,4,19,2,2,3,2,2
+16,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,2,19,2,2,3,2,2
+16,37,Balla,Automobile in Corsa,Furturist,1913,2,0,1,3,19,2,2,3,2,2
+16,38,Chirico,The Evil Genius of a King,Metaphysical,1915,2,0,1,5,19,2,2,3,2,2
+16,39,Beckmann,The Night,New Objectivity,1919,2,0,1,4,19,2,2,3,2,2
+16,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,5,19,2,2,3,2,2
+16,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,2,19,2,2,3,2,2
+16,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,6,19,2,2,3,2,2
+16,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,5,19,2,2,3,2,2
+16,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,5,19,2,2,3,2,2
+16,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,4,19,2,2,3,2,2
+16,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,3,19,2,2,3,2,2
+16,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,6,19,2,2,3,2,2
+16,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,5,19,2,2,3,2,2
+16,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,2,19,2,2,3,2,2
+16,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,5,19,2,2,3,2,2
+16,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,5,19,2,2,3,2,2
+16,52,Picasso,Guernica,Cubism,1937,2,0,1,4,19,2,2,3,2,2
+16,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,4,19,2,2,3,2,2
+16,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,4,19,2,2,3,2,2
+16,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,5,19,2,2,3,2,2
+16,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,5,19,2,2,3,2,2
+16,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,5,19,2,2,3,2,2
+16,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,6,19,2,2,3,2,2
+16,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,4,19,2,2,3,2,2
+16,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,3,19,2,2,3,2,2
+17,61,Sikander,Walled States,Contemporary Art,1969,2,0,1,4,20,1,3,1,1,0
+17,62,Kanso,Faust,Modern,1976,2,0,1,5,20,1,3,1,1,0
+17,63,Kiefer,Sulamite,New Symbolism / Neo-Expressionism,1983,2,0,1,4,20,1,3,1,1,0
+17,64,Martin,Fiesta,Abstract Expressionism,1985,2,0,1,5,20,1,3,1,1,0
+17,65,Warhol,Campbell's Soup Cans,Pop Art,1987,2,0,1,4,20,1,3,1,1,0
+17,66,Xiaodong,Voiture de police avec pigeons ,Neo-Realist,1993,2,0,1,4,20,1,3,1,1,0
+17,67,Rutu,Riding Death in My Sleep,Surrealism,2002,2,0,1,4,20,1,3,1,1,0
+17,68,Marshall,7am Sunday Morning,Contemporary Art,2003,2,0,1,3,20,1,3,1,1,0
+17,69,Taaffe,Large Cairene Window,Process - Based Abstraction,2010,2,0,1,2,20,1,3,1,1,0
+17,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,4,20,1,3,1,1,0
+17,71,Computer,Flower,Abstract,2017,3,1,0,2,20,1,3,1,1,0
+17,72,Computer,Cyclone ,Abstract,2017,3,1,0,2,20,1,3,1,1,0
+17,73,Computer,Spiral ,Abstract,2017,3,1,0,5,20,1,3,1,1,0
+17,74,Computer,Dress,Abstract,2017,3,1,0,5,20,1,3,1,1,0
+17,75,Computer,Scream,Abstract,2017,3,1,0,3,20,1,3,1,1,0
+17,76,Computer,Nest,Abstract,2017,3,1,0,3,20,1,3,1,1,0
+17,77,Computer,Splatter,Abstract,2017,3,1,0,4,20,1,3,1,1,0
+17,78,Computer,Heidegger,Abstract,2017,3,1,1,2,20,1,3,1,1,0
+17,79,Computer,Tunnel,Abstract,2017,3,1,1,1,20,1,3,1,1,0
+17,80,Computer,Volcano,Abstract,2017,3,1,1,5,20,1,3,1,1,0
+17,81,Computer,Confidence,Abstract,2017,3,1,1,2,20,1,3,1,1,0
+18,84,Computer,Boxes,Abstract ,2017,3,1,1,6,18,2,4,1,2,1
+18,85,Insect 1,Untitled,Abstract,2017,3,2,0,2,18,2,4,1,2,1
+18,86,Insect 2,Untitled,Abstract,2017,3,2,0,2,18,2,4,1,2,1
+18,87,Turtle,Untitled,Abstract,2017,3,2,0,2,18,2,4,1,2,1
+18,88,Snake,Untitled,Abstract,2017,3,2,0,2,18,2,4,1,2,1
+18,89,Hippo,Untitled,Abstract,2017,3,2,0,2,18,2,4,1,2,1
+18,90,Rhino,Untitled,Abstract,2017,3,2,0,4,18,2,4,1,2,1
+18,91,Chimp,Untitled,Abstract,2017,3,2,0,1,18,2,4,1,2,1
+19,80,Computer,Volcano,Abstract,2017,3,1,1,3,18,2,2,2,0,1
+19,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,6,18,2,2,2,0,1
+20,1,Durer,Self-Portrait,Northern Renaissance,1500,1,0,1,6,19,2,2,0,0,1
+20,2,de Vinci,Mona Lisa,Renaissance,1503,1,0,1,5,19,2,2,0,0,1
+20,3,Michelangelo,The Creation of Adam,Italian Renaissance,1512,1,0,1,2,19,2,2,0,0,1
+20,4,Bruegel,Tower of Babel,Dutch and Flemish Renaissance,1563,1,0,1,7,19,2,2,0,0,1
+20,5,Hals,Laughing Cavalier,Baroque,1624,1,0,1,2,19,2,2,0,0,1
+20,6,Rembrandt,Belshazzar's Feast,Baroque,1635,1,0,1,4,19,2,2,0,0,1
+20,7,Vermeer,Girl with the Pearl Earring,Dutch Golden Age,1665,1,0,1,5,19,2,2,0,0,1
+20,8,Ricci,Venus and Cupid,Late Baroque,1700,1,0,1,3,19,2,2,0,0,1
+20,9,Chardin,Saying Grace,Realism,1740,1,0,1,3,19,2,2,0,0,1
+20,10,Hogarth,Marriage A-la-Mode,Rococo,1744,1,0,1,3,19,2,2,0,0,1
+20,11,Gainsborough,Mr. and Mrs. Andrews,Rococo,1750,1,0,1,4,19,2,2,0,0,1
+20,12,Greuze,The Village Bride,Rococo,1761,1,0,1,4,19,2,2,0,0,1
+20,13,Fragonard,The Swing,Rococo,1767,1,0,1,3,19,2,2,0,0,1
+20,14,David,Oath of Horatii,Neoclassical,1784,1,0,1,7,19,2,2,0,0,1
+20,15,Lebrun,Self-Portrait with Her Daughter,Rococo / Neoclassicism,1789,1,0,1,5,19,2,2,0,0,1
+20,16,David,The Death of Marat,Neoclassical,1793,1,0,1,4,19,2,2,0,0,1
+20,17,Girodet,Jean-Baptiste Belley,Romanticism / Neoclassicism,1797,1,0,1,5,19,2,2,0,0,1
+20,18,Goya,The Sleep of Reason Produces Monsters,Romanticism,1798,1,0,1,2,19,2,2,0,0,1
+20,19,David,Rape of the Sabine Women,Neoclassical,1799,1,0,1,6,19,2,2,0,0,1
+20,20,David,Napoleon Crossing the Alps,Neoclassical,1800,1,0,1,4,19,2,2,0,0,1
+20,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,3,19,2,2,0,0,1
+20,61,Sikander,Walled States,Contemporary Art,1969,2,0,1,4,19,2,2,0,0,1
+20,62,Kanso,Faust,Modern,1976,2,0,1,2,19,2,2,0,0,1
+20,63,Kiefer,Sulamite,New Symbolism / Neo-Expressionism,1983,2,0,1,3,19,2,2,0,0,1
+20,64,Martin,Fiesta,Abstract Expressionism,1985,2,0,1,5,19,2,2,0,0,1
+20,65,Warhol,Campbell's Soup Cans,Pop Art,1987,2,0,1,5,19,2,2,0,0,1
+20,66,Xiaodong,Voiture de police avec pigeons ,Neo-Realist,1993,2,0,1,2,19,2,2,0,0,1
+20,67,Rutu,Riding Death in My Sleep,Surrealism,2002,2,0,1,2,19,2,2,0,0,1
+20,68,Marshall,7am Sunday Morning,Contemporary Art,2003,2,0,1,1,19,2,2,0,0,1
+20,69,Taaffe,Large Cairene Window,Process - Based Abstraction,2010,2,0,1,3,19,2,2,0,0,1
+20,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,5,19,2,2,0,0,1
+20,71,Computer,Flower,Abstract,2017,3,1,0,1,19,2,2,0,0,1
+20,72,Computer,Cyclone ,Abstract,2017,3,1,0,4,19,2,2,0,0,1
+20,73,Computer,Spiral ,Abstract,2017,3,1,0,1,19,2,2,0,0,1
+20,74,Computer,Dress,Abstract,2017,3,1,0,3,19,2,2,0,0,1
+20,75,Computer,Scream,Abstract,2017,3,1,0,2,19,2,2,0,0,1
+20,76,Computer,Nest,Abstract,2017,3,1,0,2,19,2,2,0,0,1
+20,77,Computer,Splatter,Abstract,2017,3,1,0,2,19,2,2,0,0,1
+20,78,Computer,Heidegger,Abstract,2017,3,1,1,1,19,2,2,0,0,1
+20,79,Computer,Tunnel,Abstract,2017,3,1,1,1,19,2,2,0,0,1
+20,80,Computer,Volcano,Abstract,2017,3,1,1,5,19,2,2,0,0,1
+21,5,Hals,Laughing Cavalier,Baroque,1624,1,0,1,5,19,2,1,0,2,1
+21,6,Rembrandt,Belshazzar's Feast,Baroque,1635,1,0,1,5,19,2,1,0,2,1
+21,7,Vermeer,Girl with the Pearl Earring,Dutch Golden Age,1665,1,0,1,2,19,2,1,0,2,1
+21,8,Ricci,Venus and Cupid,Late Baroque,1700,1,0,1,5,19,2,1,0,2,1
+21,9,Chardin,Saying Grace,Realism,1740,1,0,1,5,19,2,1,0,2,1
+21,10,Hogarth,Marriage A-la-Mode,Rococo,1744,1,0,1,4,19,2,1,0,2,1
+21,11,Gainsborough,Mr. and Mrs. Andrews,Rococo,1750,1,0,1,4,19,2,1,0,2,1
+21,12,Greuze,The Village Bride,Rococo,1761,1,0,1,5,19,2,1,0,2,1
+21,13,Fragonard,The Swing,Rococo,1767,1,0,1,4,19,2,1,0,2,1
+21,14,David,Oath of Horatii,Neoclassical,1784,1,0,1,7,19,2,1,0,2,1
+21,15,Lebrun,Self-Portrait with Her Daughter,Rococo / Neoclassicism,1789,1,0,1,5,19,2,1,0,2,1
+21,16,David,The Death of Marat,Neoclassical,1793,1,0,1,5,19,2,1,0,2,1
+21,17,Girodet,Jean-Baptiste Belley,Romanticism / Neoclassicism,1797,1,0,1,5,19,2,1,0,2,1
+21,18,Goya,The Sleep of Reason Produces Monsters,Romanticism,1798,1,0,1,5,19,2,1,0,2,1
+21,19,David,Rape of the Sabine Women,Neoclassical,1799,1,0,1,5,19,2,1,0,2,1
+22,30,Mount,The Power of Music ,American Realism,1847,1,0,1,3,19,2,1,2,3,2
+22,31,Courbet,The Stonebreakers,Social Realism,1850,1,0,1,5,19,2,1,2,3,2
+22,32,Hunt,The Awakening Conscience,Orientalist / Pre-Raphaelites,1853,1,0,1,5,19,2,1,2,3,2
+22,33,Manet,Olympia,Impressionism / Realism ,1863,1,0,1,4,19,2,1,2,3,2
+22,34,Bouquereau,Washerwomen of Fouesnant,Neoclassicism,1869,1,0,1,4,19,2,1,2,3,2
+22,35,Bouquereau,Birth of Venus,Realism,1879,1,0,1,4,19,2,1,2,3,2
+22,36,Dubuffet,Propitious Moment ,Art Brut,1901,2,0,1,5,19,2,1,2,3,2
+22,37,Balla,Automobile in Corsa,Furturist,1913,2,0,1,6,19,2,1,2,3,2
+22,38,Chirico,The Evil Genius of a King,Metaphysical,1915,2,0,1,3,19,2,1,2,3,2
+22,39,Beckmann,The Night,New Objectivity,1919,2,0,1,2,19,2,1,2,3,2
+22,40,Lissitzky,Of Two Squares: A Suprematist Tale in Six Constructions ,Suprematism / Constructivism,1920,2,0,1,5,19,2,1,2,3,2
+22,41,Soutine,View of Cagnes,Expressionism,1925,2,0,1,5,19,2,1,2,3,2
+22,42,Schapiro,Big Ox No 2,Abstract Expressionism,1923,2,0,1,4,19,2,1,2,3,2
+22,43,Arp,Bottle and Bird or Winged Configuration,Surrealism / Constructivism,1925,2,0,1,4,19,2,1,2,3,2
+22,44,Demuth,I Saw the Number Five in Gold,Futurism / Cubism,1928,2,0,1,6,19,2,1,2,3,2
+22,45,Magritte,The Treachery of Images,Surrealism,1929,2,0,1,5,19,2,1,2,3,2
+22,46,Doesburg,Counter - Composition,De Stijl,1930,2,0,1,4,19,2,1,2,3,2
+22,47,Mondrian,"Composition with Red, Blue, and Yellow",Neo-Plasticism,1930,2,0,1,2,19,2,1,2,3,2
+22,48,Dali,The Persistence of Memory,Surrealism ,1931,2,0,1,2,19,2,1,2,3,2
+22,49,Picasso,Girl before a Mirror,Cubism,1932,2,0,1,1,19,2,1,2,3,2
+22,50,Miro,Painting,Surrealism / Dada / Experimental,1933,2,0,1,3,19,2,1,2,3,2
+22,51,Stella,Harran II,Abstract Expressionism,1936,2,0,1,2,19,2,1,2,3,2
+22,52,Picasso,Guernica,Cubism,1937,2,0,1,5,19,2,1,2,3,2
+22,54,Bacon,Three Studies for Figures at the Base of a Crucifixion,Post-War,1944,2,0,1,3,19,2,1,2,3,2
+22,53,Pollock,Galaxy ,Abstract Expressionism / Drip Painting,1947,2,0,1,5,19,2,1,2,3,2
+22,55,Kooning,Attic,Abstract Expressionism,1949,2,0,1,2,19,2,1,2,3,2
+22,56,Kusama,Untitled,Abstract Expressionism / Minimalism / Pop Art / Feminist Art,1952,2,0,1,2,19,2,1,2,3,2
+22,57,Matisse,Blue Nude II,Fauvism,1952,2,0,1,3,19,2,1,2,3,2
+22,58,Oiticica,Metaschema,Neo-Concrete Movement,1957,2,0,1,6,19,2,1,2,3,2
+22,59,Johns,Three Flags,Abstract Expressionism / Neo-Dada & Pop Art,1958,2,0,1,3,19,2,1,2,3,2
+22,60,Frankenthaler,The Bay,Abstract Expressionism,1963,2,0,1,2,19,2,1,2,3,2
+22,61,Sikander,Walled States,Contemporary Art,1969,2,0,1,5,19,2,1,2,3,2
+22,62,Kanso,Faust,Modern,1976,2,0,1,5,19,2,1,2,3,2
+22,63,Kiefer,Sulamite,New Symbolism / Neo-Expressionism,1983,2,0,1,4,19,2,1,2,3,2
+22,64,Martin,Fiesta,Abstract Expressionism,1985,2,0,1,2,19,2,1,2,3,2
+22,65,Warhol,Campbell's Soup Cans,Pop Art,1987,2,0,1,5,19,2,1,2,3,2
+22,66,Xiaodong,Voiture de police avec pigeons ,Neo-Realist,1993,2,0,1,2,19,2,1,2,3,2
+22,67,Rutu,Riding Death in My Sleep,Surrealism,2002,2,0,1,2,19,2,1,2,3,2
+22,68,Marshall,7am Sunday Morning,Contemporary Art,2003,2,0,1,5,19,2,1,2,3,2
+22,69,Taaffe,Large Cairene Window,Process - Based Abstraction,2010,2,0,1,2,19,2,1,2,3,2
+22,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,2,19,2,1,2,3,2
+22,71,Computer,Flower,Abstract,2017,3,1,0,1,19,2,1,2,3,2
+22,72,Computer,Cyclone ,Abstract,2017,3,1,0,1,19,2,1,2,3,2
+22,73,Computer,Spiral ,Abstract,2017,3,1,0,1,19,2,1,2,3,2
+22,74,Computer,Dress,Abstract,2017,3,1,0,1,19,2,1,2,3,2
+22,75,Computer,Scream,Abstract,2017,3,1,0,1,19,2,1,2,3,2
+22,76,Computer,Nest,Abstract,2017,3,1,0,1,19,2,1,2,3,2
+22,77,Computer,Splatter,Abstract,2017,3,1,0,1,19,2,1,2,3,2
+22,78,Computer,Heidegger,Abstract,2017,3,1,1,1,19,2,1,2,3,2
+22,79,Computer,Tunnel,Abstract,2017,3,1,1,1,19,2,1,2,3,2
+22,80,Computer,Volcano,Abstract,2017,3,1,1,1,19,2,1,2,3,2
+22,81,Computer,Confidence,Abstract,2017,3,1,1,1,19,2,1,2,3,2
+22,82,Computer,Tracking,Abstract,2017,3,1,1,1,19,2,1,2,3,2
+22,83,Computer,Lines,Abstract,2017,3,1,1,1,19,2,1,2,3,2
+22,84,Computer,Boxes,Abstract ,2017,3,1,1,1,19,2,1,2,3,2
+22,85,Insect 1,Untitled,Abstract,2017,3,2,0,3,19,2,1,2,3,2
+22,86,Insect 2,Untitled,Abstract,2017,3,2,0,2,19,2,1,2,3,2
+22,87,Turtle,Untitled,Abstract,2017,3,2,0,1,19,2,1,2,3,2
+22,88,Snake,Untitled,Abstract,2017,3,2,0,1,19,2,1,2,3,2
+22,89,Hippo,Untitled,Abstract,2017,3,2,0,4,19,2,1,2,3,2
+22,90,Rhino,Untitled,Abstract,2017,3,2,0,2,19,2,1,2,3,2
+23,70,Fathi,Untitled,Hurufiyya Movement,2013,2,0,1,1,19,2,3,3,1,2
+23,71,Computer,Flower,Abstract,2017,3,1,0,1,19,2,3,3,1,2
+23,72,Computer,Cyclone ,Abstract,2017,3,1,0,1,19,2,3,3,1,2
+23,73,Computer,Spiral ,Abstract,2017,3,1,0,1,19,2,3,3,1,2
+23,74,Computer,Dress,Abstract,2017,3,1,0,4,19,2,3,3,1,2
+23,75,Computer,Scream,Abstract,2017,3,1,0,1,19,2,3,3,1,2
+23,76,Computer,Nest,Abstract,2017,3,1,0,1,19,2,3,3,1,2
+23,77,Computer,Splatter,Abstract,2017,3,1,0,4,19,2,3,3,1,2
+23,78,Computer,Heidegger,Abstract,2017,3,1,1,1,19,2,3,3,1,2
+23,79,Computer,Tunnel,Abstract,2017,3,1,1,4,19,2,3,3,1,2
+23,80,Computer,Volcano,Abstract,2017,3,1,1,1,19,2,3,3,1,2
